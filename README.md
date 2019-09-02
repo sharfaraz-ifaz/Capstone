@@ -21,7 +21,14 @@ ___
 
 Final prototype: 
 
+![](images/prototype.jpg)
+
 LiDAR scan output:
+
+![](images/processing.png)
 
 Demo: 
 
+![](images/test.png)
+
+# Full details in Report.pdf
