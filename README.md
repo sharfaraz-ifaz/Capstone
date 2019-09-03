@@ -15,7 +15,7 @@ Faculty Advisor: Dr. Siyuan He
 ___
 # Abstract
 
-This project presents the design and construction of a LIDAR navigated robot car based on the Mechbot used in the MEC733 course. By implementing LIDAR, this project will aim to improve the navigation capabilities of the Mechbot, which currently uses IR for sensing and navigation.
+This project presents the design and construction of a LIDAR navigated robot car based on the Mechbot used in the MEC733 course. By implementing LiDAR, this project will aim to improve the navigation capabilities of the Mechbot, which currently uses IR for sensing and navigation.
 ___
 # Pictures
 
